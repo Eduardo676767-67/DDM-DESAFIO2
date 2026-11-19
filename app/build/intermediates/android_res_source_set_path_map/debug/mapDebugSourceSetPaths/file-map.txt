@@ -1,0 +1,9 @@
+com.example.perfilusuario.app-pngs-0 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\generated\res\pngs\debug
+com.example.perfilusuario.app-res-1 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\generated\res\processDebugGoogleServices
+com.example.perfilusuario.app-updated_navigation_xml-2 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\generated\updated_navigation_xml\debug
+com.example.perfilusuario.app-packageDebugResources-3 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.perfilusuario.app-packageDebugResources-4 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.perfilusuario.app-debug-5 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.perfilusuario.app-debug-6 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\src\debug\res
+com.example.perfilusuario.app-main-7 C:\Users\unisanta\Desktop\DDM-tp-p2-main\app\src\main\res
+gradleHome-0 C:\Users\unisanta\.gradle

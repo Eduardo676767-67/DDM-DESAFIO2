@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F59E0B</color>
+    <color name="badge_bg">#EEF2FF</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="black">#FF000000</color>
+    <color name="danger">#EF4444</color>
+    <color name="price_green">#059669</color>
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4338CA</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">AppFirebaseAuth</string>
+    <string name="btn_cadastrar">Cadastrar Usuário</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_entrar_firebaseui">Entrar / Cadastrar via FirebaseUI</string>
+    <string name="btn_excluir_conta">Excluir Conta</string>
+    <string name="btn_ir_cadastro">Criar nova conta (Cadastrar usuário)</string>
+    <string name="btn_sair">Sair e Retornar ao Login</string>
+    <string name="btn_voltar_login">Voltar para a Tela de Login</string>
+    <string name="default_web_client_id" translatable="false">596200678449-pi5kbl0eugkkjaj6cpd0d7e6ati3koof.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">596200678449</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEjNRWRpJVtmYoCVYnQLOXrslCIAgxcQQ</string>
+    <string name="google_app_id" translatable="false">1:596200678449:android:49c5b8c18221591981e110</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEjNRWRpJVtmYoCVYnQLOXrslCIAgxcQQ</string>
+    <string name="google_storage_bucket" translatable="false">tpauth-8634b.firebasestorage.app</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_senha">Senha (mínimo 6 caracteres)</string>
+    <string name="project_id" translatable="false">tpauth-8634b</string>
+    <string name="subtitulo_cadastro">Preencha os dados abaixo para criar sua conta no Firebase</string>
+    <string name="subtitulo_login">Entre na sua conta ou cadastre um novo usuário</string>
+    <string name="titulo_cadastro">Cadastro de Usuário</string>
+    <string name="titulo_home">Área Logada do Aplicativo</string>
+    <string name="titulo_login">Autenticação FirebaseUI</string>
+    <style name="Base.Theme.AppFirebaseAuth" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorError">@color/danger</item>
+    </style>
+    <style name="Theme.AppFirebaseAuth" parent="Base.Theme.AppFirebaseAuth"/>
+</resources>
